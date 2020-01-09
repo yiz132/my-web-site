@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"James (Yixuan) Zhang",
+    "occupation":"",
+    "description":"Hew a path if there is a mountain,and put a bridges across if there is a river",
+    "image":"profilepic.jpg",
+    "bio":"I'm a strong self-learning person and a true technology fan. I love exploring and diving into new stuffs. Also I'm a starbucks guy and like to drink a coffee in the morning to refresh my whole day!",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "yiz132@pitt.edu",
+    "phone": "412-583-9396",
+    "address":{
+      "street":"4500 Centre Ave",
+      "city":"Pittsburgh",
+      "state":"Pennsylvania",
+      "zip": "15213"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/YixuanZhang132",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/JameszyxCN",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/monppopop",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"www.linkedin.com/in/JamesZYX",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/jameszyx_/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/yiz132",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "language_message":"Programming languages with proficiency",
+    "framework_message":"Frame and Library with proficiency",
+    "education":[
+      {
+        "school":"University of Pittsburgh",
+        "degree":"Masters in Information Science",
+        "graduated":"August 2019 - April 2021",
+        "description":"GPA: 3.95 / 4.0",
+        "main_courses":"Algorithms, Data Structure, Cloud Computing, Database Management, Web Technology & Standards, Neural Network"
+      },
+      {
+        "school":"University of Pittsburgh",
+        "degree":"Masters in Chemical and Petroleum Engineering",
+        "graduated":"August 2017 - April 2019",
+        "description":"GPA: 3.98 / 4.0"
+      },
+      {
+        "school":"China University of Petroleum, Beijing",
+        "degree":"Bachelor of Science in Petroleum Engineering",
+        "graduated":"August 2013 - June 2017",
+        "description":"P.S. First year majored in Mathematics"
+      }
+    ],
+    "work":[
+      {
+        "company":"Swanson School of Engineering",
+        "title":"Research Assistant",
+        "years":"April 2018 - April 2019",
+        "description":"Pre-processed raw lab data from Acoustic Emission and pressure monitor system with 10 Gigabyte-size. Then built mathematic model. Designed and Performed experiments to bench mark the mathematic modeling."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"95%"
+      },
+      {
+        "name":"JavaScript(ES6)",
+        "level":"70%"
+      },
+      {
+        "name":"Python 3",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      },
+      {
+        "name":"Swift 5",
+        "level":"55%"
+      },
+      {
+        "name":"MATLAB",
+        "level":"70%"
+      },
+      {
+        "name":"C",
+        "level":"45%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}

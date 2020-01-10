@@ -2,7 +2,7 @@
   "main": {
     "name":"James (Yixuan) Zhang",
     "occupation":"",
-    "description":"Hew a path if there is a mountain,and put a bridges across if there is a river",
+    "description":"Feel free to discover me from the following social platforms",
     "image":"profilepic.jpg",
     "bio":"I'm a strong self-learning person and a true technology fan. I love exploring and diving into new stuffs. Also I'm a starbucks guy and like to drink a coffee in the morning to refresh my whole day!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -15,7 +15,7 @@
       "zip": "15213"
     },
     "website": "",
-    "resumedownload":"",
+    "resumedownload":"../images/Resume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -34,7 +34,7 @@
       },
       {
         "name":"linkedin",
-        "url":"www.linkedin.com/in/JamesZYX",
+        "url":"https://www.linkedin.com/in/JamesZYX",
         "className":"fa fa-linkedin"
       },
       {
@@ -63,7 +63,7 @@
         "degree":"Masters in Information Science",
         "graduated":"August 2019 - April 2021",
         "description":"GPA: 3.95 / 4.0",
-        "main_courses":"Algorithms, Data Structure, Cloud Computing, Database Management, Web Technology & Standards, Neural Network"
+        "main_courses":"Algorithms, Data Structure, Cloud Computing, Database Management, Web Technology & Standards, Neural Network, etc."
       },
       {
         "school":"University of Pittsburgh",

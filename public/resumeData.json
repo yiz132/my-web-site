@@ -4,7 +4,7 @@
     "occupation":"",
     "description":"Feel free to discover me from the following social platforms",
     "image":"profilepic.jpg",
-    "bio":"I'm a strong self-learning person and a true technology fan. I love exploring and diving into new stuffs. Also I'm a starbucks guy and like to drink a coffee in the morning to refresh my whole day!",
+    "bio":"I'm a strong self-learning person and a true technology fan. I love exploring and diving into new stuffs. Also I'm a starbucks who like to drink coffee and a dog lover!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "yiz132@pitt.edu",
     "phone": "412-583-9396",
@@ -125,15 +125,15 @@
       },
       {
         "name":"C",
-        "level":"45%"
+        "level":"35%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"",
-        "category":"",
+        "title":"E-COMMERCE WEBSITE",
+        "category":"Full stack web development",
         "image":"",
         "url":""
       }
